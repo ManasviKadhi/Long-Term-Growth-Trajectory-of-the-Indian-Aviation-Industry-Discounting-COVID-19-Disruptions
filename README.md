@@ -1,5 +1,4 @@
-# Long-Term-Growth-Trajectory-of-the-Indian-Aviation-Industry-Discounting-COVID-19-Disruptions
-# Returning to Altitude: Forecasting the Indian Aviation Industry's Growth Trajectory
+# Returning to Altitude: Forecasting the Indian Aviation Industry's Growth Trajectory Post COVID 19 
 ## Project Overview
 This project analyzes the **long-term growth trajectory** of the Indian aviation industry, discounting the disruptions caused by **COVID-19**. By leveraging time series forecasting models, the aim was to understand recovery patterns and assess whether the sector is regaining pre-pandemic momentum.
 
